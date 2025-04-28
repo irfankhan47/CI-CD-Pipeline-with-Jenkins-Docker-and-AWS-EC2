@@ -1,12 +1,13 @@
 {
-  "name": "real-time-node-app",
+  "name": "real-time-website",
   "version": "1.0.0",
-  "description": "Node.js app for real-world CI/CD pipeline demo",
+  "description": "A real-time website app for Jenkins Docker CI/CD project",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
   }
 }
