@@ -1,0 +1,12 @@
+{
+  "name": "real-time-node-app",
+  "version": "1.0.0",
+  "description": "Node.js app for real-world CI/CD pipeline demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
